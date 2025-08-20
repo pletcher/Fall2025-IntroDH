@@ -66,6 +66,9 @@ Humanities." (BHDH pp. 169–178)
 
 - Reading quiz
 - Discussion: How are we meant to read _with_ computers? What kinds of critical practices does such reading enable?
+- Torre, Silvia Gutiérrez de la. “Corpus Analysis with Voyant Tools.” Translated by Eime
+Javier Cisneros Brito and Alberto Santiago Martínez. Programming Historian, no. 14 (June 2025).
+https://doi.org/10.46430/phen0128.
 - [Voyant Lab](./voyant-lab.md)
 
 ### Homework
@@ -81,8 +84,22 @@ https://doi.org/10.1632/S0030812924000567.
 
 ## 5. September 30
 
+- Discussion: What has changed between the publication of Posner's article (2016) and the publication
+of Ledesma's (2024)?
+- In class: Read Petschesky, Barry. "It Took Many Years And Billions Of Dollars, But Microsoft
+Finally Invented A Calculator That Is Wrong Sometimes" in _Defector_, 20 August 2025.
+[Link](https://defector.com/it-took-many-years-and-billions-of-dollars-but-microsoft-finally-invented-a-calculator-that-is-wrong-sometimes)
+- Discussion: In this class so far, what has been your experience using "old-school" tools like TEI
+XML encoding and Voyant, without the assistance of generative AI?
 
 ### Homework
+
+- Dombroski, Quinn. “Does Coding Matter for Doing Digital Humanities?” (BHDH pp. 137–146)
+- Da, Nan Z. “The Computational Case against Computational Literary Studies.” _Critical Inquiry_ 45,
+no. 3 (2019): 601–39. https://doi.org/10.1086/702594.
+- Barrett, Paul. “Unjust Readings: Against the New New Criticism.” _Digital Humanities Quarterly_ 19, no. 1 (2025).
+https://dhq.digitalhumanities.org/vol/19/1/000764/000764.html
+
 
 **Voyant Lab due tonight (September 30) by 11:59 p.m.**
 
@@ -90,25 +107,94 @@ https://doi.org/10.1632/S0030812924000567.
 
 - (Last day to drop a class)
 - (Last day to opt for pass/fail)
+- (Tentative) GIS Lab led by Carolyn Talmadge
 
-- Python environment setup
-- PyHum 1.1–1.3
+
+### Homework
+
+- Finish GIS Lab
+- Toth, Gabor Mihaly. “Women in Early Modern Handwritten News: Random Walks and
+Semantic Wanderings in the Medici Archive.” _Journal of Digital History_ 3, no. 2 (2024).
+[link](https://doi.org/10.1515/JDH-2023-0010?locatt=label:JDHFULL)
+- Hicks, Michael Townsen, James Humphries, and Joe Slater. “ChatGPT Is Bullshit.” _Ethics and
+Information Technology_ 26, no. 2 (2024). [link](https://doi.org/10.1007/s10676-024-09775-5)
+- Mandelkern, Matthew, and Tal Linzen. “Do Language Models’ Words Refer?” _Computational
+Linguistics_ 50, no. 3 (2024): 1191–200. [link](https://doi.org/10.1162/coli_a_00522)
 
 
 ## 7. October 14
 
+- Discussion: How does AI shape our access to information? It what ways has it changed our
+epistemological environment? Can we reclaim anything that has been lost?
+- Python environment setup
+- PyHum 1 (The Basics of Python)
+- [Web Scraping Lab](./web-scraping-lab.md)
+
+### Homework
+
+- Eve, Martin Paul. "Open Access in the Humanities Disciplines." (BHDH pp. 223–232)
+- Egan, Patrick and Órla Murphy. "Sharing as CARE and FAIR in the Digital Humanities." (BHDH pp. 267–272)
+- Alvarado, Rafael. "Datawork and the Future of Digital Humanities." (BHDH pp. 361–372)
+- [Web Scraping Lab](./web-scraping-lab.md)
+
+
 ## 8. October 21
+
+- Reading quiz
+- Discussion: What is datawork? What does it have to do with our work in this class, and how might
+it shape our understanding of DH in general?
+- Python environment troubleshooting
+- Web scraping debugging
+- PyHum 2 (Data Analysis with Pandas)
+
+### Homework
+
+**Web Scraping Lab due tonight (October 14) by 11:59 p.m.**
 
 ## 9. October 28
 
+- Python debugging
+- PyHum 3 (Natural Language Processing with spaCy)
+- [NLP Lab](./nlp-lab.md)
+
+### Homework
+
+- Herrmann, J Berenike. “Tool Criticism in Practice. On Methods, Tools and Aims of Computational
+Literary Studies.” _Digital Humanities Quarterly_ 17, no. 2 (2023).
+- Kemman, Max. “Tool Criticism through Playful Digital Humanities Pedagogy.” (BHDH pp. 287–294)
+- Sichani, Anna-Maria. "Embracing Decline in Digital Scholarship beyond Sustainability." (BHDH pp. 317–324)
+- [NLP Lab](./nlp-lab.md)
+
 ## 10. November 4
+
+- Discussion: How do the tools that we use affect our understanding of the materials we study?
+- PyHum 4 (Other Applications of Python)
+
+### Homework
+
+- Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction.” In _Illuminations_,
+edited by Hannah Arendt, translated by Harry Zohn. Schocken Books, 1969.
+- Berry, David M. "AI, Ethics, and Digital Humanities." (BHDH pp. 445–458)
+
+**NLP Lab due tonight (November 4) by 11:59 p.m.**
 
 ## November 11 – No class (Veteran's Day)
 
 ## 11. November 18
 
+- Discussion: How can we use computational methods responsibly in the humanities?
+- PyHum 5 (Designing an Application with Streamlit)
+
+### Homework
+
+- Allen, Graham and Jennifer Debie. "Digital Humanities in the Age of Extinction." (BHDH pp. 459–465)
+
 ## 12. November 25
 
+- In-class work and feedback on final projects
+
 ## 13. December 2
+
+- In-class work and feedback on final projects
 
 ## December 20 – Final Projects Due

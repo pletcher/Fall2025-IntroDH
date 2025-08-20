@@ -1,5 +1,7 @@
 # Voyant Lab
 
+**Again, do not use generative AI for this assignment.**
+
 For this lab, you will compare Herodotus with Thucydides (in translation).
 The goal is not to uncover anything particularly new—that would be great,
 but it's not expected!—but rather to explore what we can find out about
