@@ -8,7 +8,7 @@ pdf-engine: lualatex
 
 # Introduction to Digital Humanities - Tufts University, Fall 2025
 
-![Bandeau de Manifest des Digital Humanities by Michael Cixous, Public Domain, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/c/c2/Bandeau_-_Manifeste_des_Digital_Humanities_-_FR.png)
+![Bandeau de Manifest des Digital Humanities by Michael Cixous, Public Domain, via Wikimedia Commons](./img/manifeste-bandeau.png)
 
 ## Details
 
@@ -49,76 +49,91 @@ students will learn about the history of the digital humanities and engage in co
 Assessments include weekly quizzes or discussion posts, collaborative projects, and a final
 cumulative project of each student's design.
 
+## Learning objectives
 
-## Required Textbooks
+Successfully completing this course will equip students to
 
-- William Mattingly, _Introduction to Python for Humanists_, 2022. https://python-textbook.pythonhumanities.com/
+1.	Explain what the digital humanities are and how they relate to other forms of humanities research;
+2.	Write and execute basic Python scripts;
+3.	Pre-process a text/corpus in preparation for natural language processing;
+4.	Parse complex data structures such as Python dictionaries and Pandas data frames;
+5.	Apply digital methodologies of various kinds to humanities related data;
+6.	Evaluate the methodologies and results of digital humanities projects.
+
+
+## Textbooks
+
+### Required
+
+(These are all either open-access or available through the Tufts Library's digital subscriptions.)
+
+- William Mattingly. _Introduction to Python for Humanists_. 2022. https://python-textbook.pythonhumanities.com/
+- James O'Sullivan, ed. _The Bloomsbury Handbook to the Digital Humanities_. Bloomsbury, 2022.
 - Plato. _Statesman. Philebus. Ion._ Translated by Harold North Fowler, W. R. M. Lamb. Loeb Classical Library 164. Cambridge, MA: Harvard University Press, 1925. https://www.loebclassics.com/view/LCL164/1925/volume.xml
-- Yi Tenen, Dennis. _Literary Theory for Robots: How Computers Learned to Write_. W.W. Norton & Company, 2024.
+
+### Recommended
+
+- Dennis Yi Tenen. _Literary Theory for Robots: How Computers Learned to Write_. W.W. Norton & Company, 2024.
 
 Other readings will be provided through the course website.
 
-## [Reading schedule](./schedule.md)
+## [Schedule](./schedule.md)
 
-See the file located at [schedule.md](./schedule.md) for the most up-to-date schedule.
+See the file located at [schedule.md](./schedule.md) for the most up-to-date list of assignments.
 
 ## Grading
 
-- 1/3 In-class participation
+- 1/6 Attendance and participation
+- 1/6 Reading quizzes
 - 1/3 Labs and midterm projects
 - 1/3 Final project
 
-### 30% in-class participation and translation
+### 1/6 Attendance and participation
 
-Please come to class prepared to translate the assigned reading. It is acceptable
-(and expected) to bring a "crib sheet," i.e., a notebook with translations of
-words and phrases written out. Try not to write out the entire translation, and
-definitely don't copy directly from another translation.
+As we only meet once a week, missing even one class could leave you far behind. Although
+much of the material will be posted online, class time will be used to troubleshoot,
+debug, and debrief (read: "vent about how hard programming is").
 
-We'll review translation strategies in the first few sessions.
+Obviously emergencies happen, and everyone is allowed one (1) unexcused absence. Further
+unexcused absences will result in a deduction of half a letter grade _from your final grade_.
 
-Keep in mind that the order in which you will have to translate will change from
-class to class, so make sure to do _all_ of the reading.
+Excused absences are easy to obtain: please just give me as much notice as possible. (I try
+to keep track of religious holidays, but a heads-up is always appreciated.)
 
-In addition to translation, you might be expected to answer questions about syntax
-and grammar.
+### 1/6 Reading quizzes
 
+Starting in Week 2, we will have a reading quiz approximately every other class. These quizzes
+are not meant to be punitive. Rather, think of them as 10 minutes or so to reflect, as cogently
+as you can, on specific aspects of the reading.
 
-### 15% each: Midterms
+At the end of the semester, I will drop the lowest one (for graduate students) or two (for
+undergraduates) reading quiz scores when calculating your average for the term.
 
-Each midterm will consist of two or three passages that we have translated together
-in class, as well as one "unseen" passage for sight-translation.
+### 1/3 Labs and midterm projects
 
-Translations will be graded on lexical and grammatical accuracy. I'm less worried
-about your English, but please try to keep your translations legible.
+We will start a lab in class approximately every other week; the lab will be due at 11:59 p.m.
+following the next class.
 
+Each lab will also ask you to write a short but detailed reflection on your process and
+what you have learned. These short essays are meant to help you as you decide on your
+midterm and final projects.
 
-### 20% Final paper
+Think of the midterm project as the final project in miniature. This is a chance for you
+to experiment with a methodology or take the next logical steps with a lab. If it works,
+take the project even further for the final; if it doesn't, the final project gives you a
+mulligan. **Null results are valid here.**
 
-Towards the end of the semester, you'll each write a 5–7-page paper on a topic of
-your choosing. (I will provide some suggestions.) We'll decide on precise grading
-criteria as a class, but in general you should expect to demonstrate your ability
-to read and accurately interpret Homer in the original Greek, making use of
-secondary literature as appropriate.
+### 1/3 Final project
 
-I will provide a detailed rubric along with example prompts.
-
-
-### 20% Digital commentary
-
-We will be writing a collaborative digital commentary together as a class, and
-each of you will be responsible for contributing several glossae.
-
-The goal is partly to give you another opportunity to review the material and
-partly to provide an opportunity for you to work with digital methods and
-technologies. We'll start by discussing how to use a digital treebank, and
-we will also explore ways to use large language models (LLMs) and other
-"Generative AI" tools to aid in your explication of key passages of the text.
-
+The final project is a chance for you to demonstrate your mastery over some aspect of digital
+humanities that we have covered during the semester. Start thinking early about what experiments
+you might want to run or what tools/resources you might want to build for your final project,
+and feel free to send me an email or come to office hours as soon as you have ideas.
 
 ## Statement on AI
 
-(Adapted from ["Artificial Intelligence"](https://provost.tufts.edu/celt/online-resources/artificial-intelligence/ai-syllabus-statements/) by the Tufts' Center for the Enhancement of Learning and Teaching)
+(Adapted from ["Artificial Intelligence"](https://provost.tufts.edu/celt/online-resources/artificial-intelligence/ai-syllabus-statements/)
+by the Tufts' Center for the Enhancement of Learning and Teaching)
 
 This course discourages the use of Generative Artificial Intelligence (GAI)
 for translation assignments. At the same time, the course also provides
@@ -127,21 +142,40 @@ abilities to engage with and understand Homeric song.
 
 To this end, we will adhere to the following guidelines:
 
-1. **NEVER** submit AI-generated work as your own. To do so is considered a violation of Tufts' [Academic Integrity Policy] (https://students.tufts.edu/community-standards/academic-integrity/academic-integrity-overview).
-2. Familiarize yourself with the limitations of GAI tools. These tools all come with inherent biases, and they all make mistakes. Be aware that no matter how "confident" the AI seems, it does not actually "know" anything.
-3. Cite all uses of AI. See suggestions from the [Chicago Manual of Style](https://www.chicagomanualofstyle.org/qanda/data/faq/topics/Documentation/faq0422.html) and the [MLA](https://style.mla.org/citing-generative-ai/).
-4. In addition to citation, please identify _how_ the GAI contributed to your work. (Your explanation need not be more than a sentence or two.)
+1. **NEVER** submit AI-generated work as your own. To do so is
+considered a violation of Tufts' [Academic Integrity Policy]
+(https://students.tufts.edu/community-standards/academic-integrity/academic-integrity-overview).
+2. Familiarize yourself with the limitations of GAI tools. These tools all come with inherent
+biases, and they all make mistakes. Be aware that no matter how "confident" the AI seems, it does
+not actually "know" anything.
+3. Cite all uses of AI. See suggestions from the [Chicago Manual of
+Style](https://www.chicagomanualofstyle.org/qanda/data/faq/topics/Documentation/faq0422.html) and
+the [MLA](https://style.mla.org/citing-generative-ai/).
+4. In addition to citation, please identify _how_ the GAI contributed to your work. (Your
+explanation need not be more than a sentence or two.)
 5. If have any questions, please contact me by email, during office hours, or in class.
 
 ## Policies
 
 ### Attendance
 
-Emergencies arise. Everyone is permitted one unexcused absence. If you will need to miss additional classes, please let me know as soon as possible. Unexcused absences will count as a 0 for that day's translation grade.
+Emergencies arise. Everyone is permitted one unexcused absence. If you will need to miss additional
+classes, please let me know as soon as possible. Unexcused absences will count as a 0 for that day's
+participation grade.
+
+You are responsible for catching up on any work that you have missed, either by coming to office
+hours or working with a classmate. As a rule, I will not share lecture notes outside of what is
+already available on the course website.
+
+#### Heads-up about Thanksgiving
+
+We will be having class on the Tuesday before Thanksgiving. As a once-weekly class, each session
+is too important to miss. Please make your travel plans accordingly.
 
 ### Computer use
 
-Please only use your computer (or tablet or phone) during designated times in class. Importantly, please **do not** use your computer when translating.
+Please only use your computer (or tablet or phone) during designated times in class. Importantly,
+please **do not** use your computer when translating.
 
 ### Food and drink
 
@@ -152,24 +186,52 @@ Otherwise, please stay hydrated.
 
 ### Sharing
 
-This course is designed for everyone to feel comfortable participating in discussion, asking questions, learning, and facilitating the learning of others.  In order for that atmosphere to be maintained, the recordings of our conversations will only be shared with the enrolled students in the class (not posted publicly) and it is prohibited for any of us who have access to the video to share it outside the course. Similarly, I have specifically designed the exams, handouts, and lectures for the people who are enrolled in the course this term and those may not be shared outside this course. All of this content is freely available on GitHub under a Creative Commons license — attribution is all that is required.
+This course is designed for everyone to feel comfortable participating in discussion, asking
+questions, learning, and facilitating the learning of others.  In order for that atmosphere to be
+maintained, the recordings of our conversations will only be shared with the enrolled students in
+the class (not posted publicly) and it is prohibited for any of us who have access to the video
+to share it outside the course. Similarly, I have specifically designed the exams, handouts, and
+lectures for the people who are enrolled in the course this term and those may not be shared outside
+this course. All of this content is freely available on GitHub under a Creative Commons license —
+attribution is all that is required.
 
 ## Resources
 
 ### Religious accommodations
 
-Tufts University faculty, staff, and administration highly value and acknowledge the religious diversity of its student body. Students seeking religious accommodations related to their holy days are encouraged to collaborate with faculty to make arrangements during the first week of each semester. Consult the [Multifaith Calendar](https://chaplaincy.tufts.edu/multifaith-calendar/) for upcoming holidays, links to the University Religious Accommodations Policy, and members of the University Chaplaincy who are available to respond to questions on religious observances.
+Tufts University faculty, staff, and administration highly value and acknowledge the religious
+diversity of its student body. Students seeking religious accommodations related to their holy
+days are encouraged to collaborate with faculty to make arrangements during the first week of each
+semester. Consult the [Multifaith Calendar](https://chaplaincy.tufts.edu/multifaith-calendar/)
+for upcoming holidays, links to the University Religious Accommodations Policy, and members of the
+University Chaplaincy who are available to respond to questions on religious observances.
 
 ### Accommodations for students with disabilities
 
-Tufts is committed to providing equal access and support to all qualified students through the provision of reasonable accommodations. If you have a disability that requires reasonable accommodations, contact the StAAR Center at StaarCenter@tufts.edu or 617-627-4539. Please be aware that accommodations cannot be enacted retroactively, making timeliness a critical aspect for their provision.
+Tufts is committed to providing equal access and support to all qualified students through
+the provision of reasonable accommodations. If you have a disability that requires reasonable
+accommodations, contact the StAAR Center at StaarCenter@tufts.edu or 617-627-4539. Please be aware
+that accommodations cannot be enacted retroactively, making timeliness a critical aspect for their
+provision.
 
 ### Academic support at the StAAR Center
 
-The StAAR Center offers a variety of FREE resources to all students. Students may make an appointment to work on any writing-related project or assignment, attend subject tutoring in a variety of disciplines, or meet with an academic coach to hone skills like time management and navigating procrastination. Students can make an appointment for any of these services by visiting https://students.tufts.edu/staar-center.
+The StAAR Center offers a variety of FREE resources to all students. Students may make an
+appointment to work on any writing-related project or assignment, attend subject tutoring in a
+variety of disciplines, or meet with an academic coach to hone skills like time management and
+navigating procrastination. Students can make an appointment for any of these services by visiting
+https://students.tufts.edu/staar-center.
 
 ### Student support, including mental health
 
-As a student, there may be times when personal stressors or difficulties interfere with your academic performance or well-being. The Dean of Student Affairs Office offers support and care to undergraduates and graduate students who are experiencing difficulties, and can also aid faculty in their work with students. In addition, through Tufts’ Counseling and Mental Health Service (CMHS) students can access mental health support 24/7, and they can provide information on additional resources. CMHS also provides confidential consultation, brief counseling, and urgent care at no cost for all Tufts undergraduates as well as for graduate students who have paid the student health fee. To make an appointment, call 617-627-3360. Please visit the CMHS website: http://go.tufts.edu/Counseling to learn more about their services and resources.
+As a student, there may be times when personal stressors or difficulties interfere with your
+academic performance or well-being. The Dean of Student Affairs Office offers support and care
+to undergraduates and graduate students who are experiencing difficulties, and can also aid
+faculty in their work with students. In addition, through Tufts’ Counseling and Mental Health
+Service (CMHS) students can access mental health support 24/7, and they can provide information on
+additional resources. CMHS also provides confidential consultation, brief counseling, and urgent
+care at no cost for all Tufts undergraduates as well as for graduate students who have paid the
+student health fee. To make an appointment, call 617-627-3360. Please visit the CMHS website:
+http://go.tufts.edu/Counseling to learn more about their services and resources.
 
 
