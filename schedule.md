@@ -27,6 +27,8 @@ different elements of the text?
 - O’Sullivan, James. “Introduction: Reconsidering the Present and Future of the Digital
 Humanities.” (BHDH pp. 1–4)
 - Drucker, Johanna. “Normative Digital Humanities.” (BHDH pp. 7–18)
+- Hayles, N Katherine. “Print Is Flat, Code Is Deep: The Importance of Media-Specific Analysis.”
+_Poetics Today_ 25, no. 1 (2004): 67–90.
 - TEI Consortium, "A Gentle Introduction to XML." https://tei-c.org/release/doc/tei-p5-doc/en/html/SG.html
 
 
