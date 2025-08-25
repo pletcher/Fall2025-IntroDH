@@ -90,7 +90,7 @@ See the file located at [schedule.md](./schedule.md) for the most up-to-date lis
 
 This class will use the following grading scale, after applying the above weights:
 
-- >= 90%: A
+- ≥ 90%: A
 - 80–89%: B
 - 70–79%: C
 - 60–69%: D
