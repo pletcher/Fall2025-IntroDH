@@ -21,6 +21,7 @@ pdf-engine: lualatex
 - Text encoding exercise: Mark up as many pages of the _Ion_ by hand as you can. (We will discuss
 details in class.) What features are important to emphasize? How do you want to identify
 different elements of the text?
+- Installing a text editor
 
 ### Homework
 
@@ -29,19 +30,16 @@ Humanities.” (BHDH pp. 1–4)
 - Drucker, Johanna. “Normative Digital Humanities.” (BHDH pp. 7–18)
 - Hayles, N Katherine. “Print Is Flat, Code Is Deep: The Importance of Media-Specific Analysis.”
 _Poetics Today_ 25, no. 1 (2004): 67–90.
-- TEI Consortium, "A Gentle Introduction to XML." https://tei-c.org/release/doc/tei-p5-doc/en/html/SG.html
-
 
 ## 2. September 9
 
-- Reading quiz
-- Discussion: What can digital humanities do?
-- Installing a text editor
+- Visit to Special Collections (Tisch 103)
 - [TEI Lab](./tei-lab.md)
 
 ### Homework
 
 - [TEI Lab](./tei-lab.md)
+- TEI Consortium, "A Gentle Introduction to XML." https://tei-c.org/release/doc/tei-p5-doc/en/html/SG.html
 - Buzzetti, Dino. 2002. ["Digital Representation and the Textual Model."](http://muse.jhu.edu/content/crossref/journals/new_literary_history/v033/33.1buzzetti.html)
 - MLA, _Digital Pedagogy in the Humanities_, ["Annotation"](https://digitalpedagogy.mla.hcommons.org/keywords/annotation/)
 

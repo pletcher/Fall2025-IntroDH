@@ -88,6 +88,16 @@ See the file located at [schedule.md](./schedule.md) for the most up-to-date lis
 - 1/3 Labs and midterm projects
 - 1/3 Final project
 
+This class will use the following grading scale, after applying the above weights:
+
+- >= 90%: A
+- 80–89%: B
+- 70–79%: C
+- 60–69%: D
+- < 60%: F
+
+Plusses and minuses will be appended to letter grades at the instructor's discretion.
+
 ### 1/6 Attendance and participation
 
 As we only meet once a week, missing even one class could leave you far behind. Although
@@ -160,8 +170,10 @@ explanation need not be more than a sentence or two.)
 ### Attendance
 
 Emergencies arise. Everyone is permitted one unexcused absence. If you will need to miss additional
-classes, please let me know as soon as possible. Unexcused absences will count as a 0 for that day's
-participation grade.
+classes, please let me know as soon as possible.
+
+Each subsequent unexcused absence will result in a deduction of half a letter grade
+from your final grade (i.e., an A will become an A-, an A- will become a B+, etc.).
 
 You are responsible for catching up on any work that you have missed, either by coming to office
 hours or working with a classmate. As a rule, I will not share lecture notes outside of what is
@@ -171,11 +183,6 @@ already available on the course website.
 
 We will be having class on the Tuesday before Thanksgiving. As a once-weekly class, each session
 is too important to miss. Please make your travel plans accordingly.
-
-### Computer use
-
-Please only use your computer (or tablet or phone) during designated times in class. Importantly,
-please **do not** use your computer when translating.
 
 ### Food and drink
 
