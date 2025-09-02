@@ -1,7 +1,7 @@
 ---
 fontfamily: libertinus
 geometry:
-- margin=1in
+    - margin=1in
 papersize: letter
 pdf-engine: lualatex
 ---
@@ -12,13 +12,10 @@ pdf-engine: lualatex
 
 ## Details
 
-Time: T 6–9pm <br/>    
-Location: Eaton Hall 371 <br/>    
-Instructor: Charles Pletcher (charles.pletcher@tufts.edu) <br/>    
-Instructor Office Hours: TTh 3–4pm <br/>    
-
-Teaching Assistant: Zoë Spriggs (zoe.spriggs@tufts.edu) <br/>    
-TA Office Hours: TBD
+Time: T 6–9pm <br/>  
+Location: Eaton Hall 371 <br/>  
+Instructor: Charles Pletcher (charles.pletcher@tufts.edu) <br/>  
+Instructor Office Hours: TTh 3–4pm <br/>
 
 ## Prerequisites
 
@@ -53,13 +50,12 @@ cumulative project of each student's design.
 
 Successfully completing this course will equip students to
 
-1.	Explain what the digital humanities are and how they relate to other forms of humanities research;
-2.	Write and execute basic Python scripts;
-3.	Pre-process a text/corpus in preparation for natural language processing;
-4.	Parse complex data structures such as Python dictionaries and Pandas data frames;
-5.	Apply digital methodologies of various kinds to humanities related data;
-6.	Evaluate the methodologies and results of digital humanities projects.
-
+1. Explain what the digital humanities are and how they relate to other forms of humanities research;
+2. Write and execute basic Python scripts;
+3. Pre-process a text/corpus in preparation for natural language processing;
+4. Parse complex data structures such as Python dictionaries and Pandas data frames;
+5. Apply digital methodologies of various kinds to humanities related data;
+6. Evaluate the methodologies and results of digital humanities projects.
 
 ## Textbooks
 
@@ -153,16 +149,16 @@ abilities to engage with and understand Homeric song.
 To this end, we will adhere to the following guidelines:
 
 1. **NEVER** submit AI-generated work as your own. To do so is
-considered a violation of Tufts' [Academic Integrity Policy]
-(https://students.tufts.edu/community-standards/academic-integrity/academic-integrity-overview).
+   considered a violation of Tufts' [Academic Integrity Policy]
+   (https://students.tufts.edu/community-standards/academic-integrity/academic-integrity-overview).
 2. Familiarize yourself with the limitations of GAI tools. These tools all come with inherent
-biases, and they all make mistakes. Be aware that no matter how "confident" the AI seems, it does
-not actually "know" anything.
+   biases, and they all make mistakes. Be aware that no matter how "confident" the AI seems, it does
+   not actually "know" anything.
 3. Cite all uses of AI. See suggestions from the [Chicago Manual of
-Style](https://www.chicagomanualofstyle.org/qanda/data/faq/topics/Documentation/faq0422.html) and
-the [MLA](https://style.mla.org/citing-generative-ai/).
+   Style](https://www.chicagomanualofstyle.org/qanda/data/faq/topics/Documentation/faq0422.html) and
+   the [MLA](https://style.mla.org/citing-generative-ai/).
 4. In addition to citation, please identify _how_ the GAI contributed to your work. (Your
-explanation need not be more than a sentence or two.)
+   explanation need not be more than a sentence or two.)
 5. If have any questions, please contact me by email, during office hours, or in class.
 
 ## Policies
@@ -190,11 +186,10 @@ Please eat only during breaks. (We'll have one about halfway through each class.
 
 Otherwise, please stay hydrated.
 
-
 ### Sharing
 
 This course is designed for everyone to feel comfortable participating in discussion, asking
-questions, learning, and facilitating the learning of others.  In order for that atmosphere to be
+questions, learning, and facilitating the learning of others. In order for that atmosphere to be
 maintained, the recordings of our conversations will only be shared with the enrolled students in
 the class (not posted publicly) and it is prohibited for any of us who have access to the video
 to share it outside the course. Similarly, I have specifically designed the exams, handouts, and
@@ -240,5 +235,3 @@ additional resources. CMHS also provides confidential consultation, brief counse
 care at no cost for all Tufts undergraduates as well as for graduate students who have paid the
 student health fee. To make an appointment, call 617-627-3360. Please visit the CMHS website:
 http://go.tufts.edu/Counseling to learn more about their services and resources.
-
-
