@@ -141,12 +141,8 @@ and feel free to send me an email or come to office hours as soon as you have id
 (Adapted from ["Artificial Intelligence"](https://provost.tufts.edu/celt/online-resources/artificial-intelligence/ai-syllabus-statements/)
 by the Tufts' Center for the Enhancement of Learning and Teaching)
 
-This course discourages the use of Generative Artificial Intelligence (GAI)
-for translation assignments. At the same time, the course also provides
-opportunities to explore the use of GAI in supplementing or augmenting our
-abilities to engage with and understand Homeric song.
-
-To this end, we will adhere to the following guidelines:
+In this class, we will adhere to the following guidelines regarding the use of generative artificial
+intelligence (GAI):
 
 1. **NEVER** submit AI-generated work as your own. To do so is
    considered a violation of Tufts' [Academic Integrity Policy]
