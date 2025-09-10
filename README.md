@@ -81,7 +81,7 @@ See the file located at [schedule.md](./schedule.md) for the most up-to-date lis
 
 - 1/6 Attendance and participation
 - 1/6 Reading quizzes
-- 1/3 Labs and midterm projects
+- 1/3 Labs
 - 1/3 Final project
 
 This class will use the following grading scale, after applying the above weights:
@@ -124,8 +124,8 @@ Each lab will also ask you to write a short but detailed reflection on your proc
 what you have learned. These short essays are meant to help you as you decide on your
 midterm and final projects.
 
-Think of the midterm project as the final project in miniature. This is a chance for you
-to experiment with a methodology or take the next logical steps with a lab. If it works,
+Think of the labs as the final project in miniature. These are opportunities for you
+to experiment with a methodology or take the next logical steps with a lab. If one works,
 take the project even further for the final; if it doesn't, the final project gives you a
 mulligan. **Null results are valid here.**
 

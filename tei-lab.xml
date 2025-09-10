@@ -1,0 +1,10 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <!-- ... -->
+  </teiHeader>
+  <text>
+    <body>
+      <!-- body of copy text goes here -->
+    </body>
+  </text>
+</TEI>
