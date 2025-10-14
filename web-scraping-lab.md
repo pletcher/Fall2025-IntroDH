@@ -58,3 +58,12 @@ You'll need to keep track of how deep your network gets — you don't need to go
 
 We will return to the content that you have scraped for the NLP Lab, so try to choose a topic that
 you find interesting.
+
+For your submission, please turn in the script that you used to gather your network, as well
+as a JSON dump of the data itself.
+
+Please also submit a short (2-3–page) lab report, detailing your hypothesis/es about
+the network that you're exploring, your methods, and a brief discussion of the tools
+and techniques that you used to complete the lab.
+
+This lab is due at 11:59 p.m. on Tuesday, October 21, 2025.
