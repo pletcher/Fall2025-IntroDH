@@ -1,9 +1,18 @@
 # Web Scraping Lab
 
+## Statement on Gen AI
+
 **Again, do not use generative AI for this assignment.**
 
 Using generative AI for this lab will be considered an academic
 integrity violation, which I am required to report.
+
+## Network work: scraping Wikipedia
+
+> [!NOTE]
+> Wikipedia explicitly allows scraping, but you _must_ be careful
+> to implement a rate limiter. `time.sleep(5)` should be
+> sufficient.
 
 For this lab, you will use what you've learned about Python so far
 to collect data from Wikipedia. Your task is to build a network of
