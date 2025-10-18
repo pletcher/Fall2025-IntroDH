@@ -124,14 +124,13 @@ pdf-engine: lualatex
   epistemological environment? Can we reclaim anything that has been lost?
 - Python environment setup
 - PyHum 1 (The Basics of Python)
-- [Web Scraping Lab](./web-scraping-lab.md)
 
 ### Homework
 
 - Eve, Martin Paul. "Open Access in the Humanities Disciplines." (BHDH pp. 223–232)
 - Egan, Patrick and Órla Murphy. "Sharing as CARE and FAIR in the Digital Humanities." (BHDH pp. 267–272)
 - Alvarado, Rafael. "Datawork and the Future of Digital Humanities." (BHDH pp. 361–372)
-- [Web Scraping Lab](./web-scraping-lab.md)
+- Finish setting up VS Code and PyHum 1
 
 ## 8. October 21
 
@@ -144,13 +143,16 @@ pdf-engine: lualatex
 
 ### Homework
 
-**Web Scraping Lab due tonight (October 14) by 11:59 p.m.**
+- [Web Scraping Lab](./web-scraping-lab.md)
 
 ## 9. October 28
 
 - Python debugging
 - PyHum 3 (Natural Language Processing with spaCy)
+- [Web Scraping Lab](./web-scraping-lab.md)
 - [NLP Lab](./nlp-lab.md)
+
+**Web Scraping Lab due tonight (October 28) by 11:59 p.m.**
 
 ### Homework
 
@@ -170,8 +172,8 @@ pdf-engine: lualatex
 - Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction.” In _Illuminations_,
   edited by Hannah Arendt, translated by Harry Zohn. Schocken Books, 1969.
 - Berry, David M. "AI, Ethics, and Digital Humanities." (BHDH pp. 445–458)
+- [NLP Lab](./nlp-lab.md)
 
-**NLP Lab due tonight (November 4) by 11:59 p.m.**
 
 ## November 11 – No class (Veteran's Day)
 
@@ -179,6 +181,8 @@ pdf-engine: lualatex
 
 - Discussion: How can we use computational methods responsibly in the humanities?
 - PyHum 5 (Designing an Application with Streamlit)
+
+**NLP Lab due tonight (November 18) by 11:59 p.m.**
 
 ### Homework
 
