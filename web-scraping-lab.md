@@ -75,4 +75,4 @@ Please also submit a short (2-3–page) lab report, detailing your hypothesis/es
 the network that you're exploring, your methods, and a brief discussion of the tools
 and techniques that you used to complete the lab.
 
-This lab is due at 11:59 p.m. on Tuesday, October 21, 2025.
+This lab is due at 11:59 p.m. on Tuesday, October 28, 2025.
