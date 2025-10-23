@@ -15,7 +15,7 @@ pdf-engine: lualatex
 Time: T 6–9pm <br/>  
 Location: Eaton Hall 371 <br/>  
 Instructor: Charles Pletcher (charles.pletcher@tufts.edu) <br/>  
-Instructor Office Hours: TTh 3–4pm <br/>
+Instructor Office Hours: TTh 5-6pm or by appointment: https://cal.com/pletcher <br/>
 
 ## Prerequisites
 
