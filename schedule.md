@@ -183,8 +183,6 @@ pdf-engine: lualatex
 - Discussion: How can we use computational methods responsibly in the humanities?
 - PyHum 5 (Designing an Application with Streamlit)
 
-**NLP Lab due tonight (November 18) by 11:59 p.m.**
-
 ### Homework
 
 - Allen, Graham and Jennifer Debie. "Digital Humanities in the Age of Extinction." (BHDH pp. 459–465)
@@ -192,6 +190,8 @@ pdf-engine: lualatex
 ## 12. November 25
 
 - In-class work and feedback on final projects
+
+**NLP Lab due tonight (November 25) by 11:59 p.m.**
 
 ## 13. December 2
 
