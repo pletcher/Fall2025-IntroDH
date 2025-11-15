@@ -120,6 +120,7 @@ pdf-engine: lualatex
 
 ## 7. October 14
 
+- In-class reading: Selections from Plato's _Phaedrus_
 - Discussion: How does AI shape our access to information? It what ways has it changed our
   epistemological environment? Can we reclaim anything that has been lost?
 - Python environment setup
